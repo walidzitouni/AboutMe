@@ -2,7 +2,7 @@
 
 I am an engineering student at **ENSA Oujda**, specializing in **cybersecurity**. Passionate about **ethical hacking**, **bug bounty hunting**, and **vulnerability research**.
 
-![Profile Image]([https://yourimageurl.com/profile.jpg](https://media.licdn.com/dms/image/v2/D4E03AQGNiK7005YxTw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726531795220?e=1744243200&v=beta&t=sKdGK7J5Zs1vqmKaYhxsJg2Wk7X-iEnyWZ5cSr49X7Y))
+![Profile Image](https://media.licdn.com/dms/image/v2/D4E03AQGNiK7005YxTw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726531795220?e=1744243200&v=beta&t=sKdGK7J5Zs1vqmKaYhxsJg2Wk7X-iEnyWZ5cSr49X7Y)
 
 ## 🛠 Skills & Tools
 - **Cybersecurity | Bug Bounty | Ethical Hacking**
