@@ -2,7 +2,7 @@
 
 I am an engineering student at **ENSA Oujda**, specializing in **cybersecurity**. Passionate about **ethical hacking**, **bug bounty hunting**, and **vulnerability research**.
 
-![Profile Image](https://www.creativefabrica.com/wp-content/uploads/2019/03/Monogram-WZ-Logo-Design-by-Greenlines-Studios-580x386.jpg)
+![](https://www.creativefabrica.com/wp-content/uploads/2019/03/Monogram-WZ-Logo-Design-by-Greenlines-Studios-580x386.jpg)
 
 ## 🛠 Skills & Tools
 - **Cybersecurity | Bug Bounty | Ethical Hacking**
